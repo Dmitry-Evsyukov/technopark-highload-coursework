@@ -7,15 +7,14 @@
 
 ## <a id="first-section"></a>1. Тема и целевая аудитория
 
-Тип сервиса: *digital advertising agency*.
+Тип сервиса: *contextual advertising service*.
 
 Аналоги такого типа сервиса:
 
 * *Яндекс Директ*;
-* *Озон ОРД(оператор рекламных данных)*;
-* *CatCut*;
-* *WebFX*;
-* *Ignite Visibility*;
+* *Amazon Ads*;
+* *DoubleClick*;
+* *Google Ads*;
 
 Аудитория VK Рекламы состоит из рекламодателей и рекламополучателей. Их интересы могут пересечься, в случае если рекламополучатель заинтересован в приобретении объекта рекламы.
 
@@ -48,6 +47,8 @@ VK Реклама помимо своей почти 100-милионной ау
 
 ## <a id="literature"></a> Список использованных источников
 <hr/>
+
+https://www.appsflyer.com/ru/glossary/ad-server/
 
 https://expert.vk.com/articles/vk-reklama-itogi-2022-goda/
 
